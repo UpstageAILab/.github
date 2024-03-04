@@ -1,6 +1,6 @@
 # <img src = "https://github.com/FCLMKJ/.fc-overview/assets/156163982/57840cde-3296-4982-9f05-2cac8d4c7237" width="4%" height="4%"> Upstage X Fast Campus
 
-![image](https://github.com/UpstageAILab/.github/assets/156163982/c9ac7850-8741-4b7c-96e0-18a34fe770b3)
+![image](https://github.com/UpstageAILab/.github/assets/156163982/66b6a1ab-e147-4adf-a18b-ecea7047183d)
 - [**Upstage**](https://www.upstage.ai/)는 구글, 애플, 메타 등 Global Top 기업 출신 최고의 전문가 팀으로 이루어져 국내 최고의 AI 연구 성과를 이루고 있습니다.
 - [**Fast Campus**](https://fastcampus.co.kr/)는 고용노동부, 중소벤처기업진흥공단 등의 기관과 55개 이상의 교육과정을 운영하며 최고의 AI 교육 콘텐츠를 제공하고 있습니다.
 
