@@ -9,11 +9,12 @@
 
 ### 🖥️ Upstage AI Lab 1기
 #### In Progress
-- **[Upstage]** Natural Language Processing Basic
+- **[Upstage]** Natural Language Processing Advanced
+- **[Upstage]** NLP Dialogue Summarization Competition
+
   
 #### Upcoming
-- **[Upstage]** Natural Language Processing Advanced/LM TO LLM
-- **[Upstage]** NLP Dialogue Summarization Competition
+- **[Upstage]** Natural Language Processing LM TO LLM
 - **[Upstage]** AI Advanced : Data Centric AI
 - **[Upstage]** OCR Detector Competition
 - **[Upstage]** Information Retrieval Competition
